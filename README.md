@@ -2,7 +2,7 @@
 
 A Python implementation of a progressive 3D mesh-processing pipeline for the CSI3D project. The project loads a triangular mesh, builds a multiresolution hierarchy by simplifying the mesh, parametrizes removed vertices with barycentric coordinates, and writes the result as a progressive OBJA model.
 
-> **Status:** Academic/project work in progress. The repository includes the implementation, unit tests, and the project report (`MAPS.pdf`). Some parts of the implementation may still require refinement for production use.
+> **Status:** Academic project (in a team of 4 students) (might be incomplete). The repository includes the implementation, unit tests, and the project report (`MAPS.pdf`). Some parts of the implementation may still require refinement for production use.
 
 ## Features
 
